@@ -8,41 +8,41 @@ To facilitate a better understanding, managers have provided ratings for each em
 
 Dataset description:
 
-emp_record_table: It contains the information of all the employees.
-●	EMP_ID – ID of the employee
-●	FIRST_NAME – First name of the employee
-●	LAST_NAME – Last name of the employee
-●	GENDER – Gender of the employee
-●	ROLE – Post of the employee
-●	DEPT – Field of the employee
-●	EXP – Years of experience the employee has
-●	COUNTRY – Country in which the employee is presently living
-●	CONTINENT – Continent in which the country is
-●	SALARY – Salary of the employee
-●	EMP_RATING – Performance rating of the employee
-●	MANAGER_ID – The manager under which the employee is assigned 
-●	PROJ_ID – The project on which the employee is working or has worked on
+emp_record_table: It contains the information of all the employees.<br/>
+●	EMP_ID – ID of the employee<br/>
+●	FIRST_NAME – First name of the employee<br/>
+●	LAST_NAME – Last name of the employee<br/>
+●	GENDER – Gender of the employee<br/>
+●	ROLE – Post of the employee<br/>
+●	DEPT – Field of the employee<br/>
+●	EXP – Years of experience the employee has<br/>
+●	COUNTRY – Country in which the employee is presently living<br/>
+●	CONTINENT – Continent in which the country is<br/>
+●	SALARY – Salary of the employee<br/>
+●	EMP_RATING – Performance rating of the employee<br/>
+●	MANAGER_ID – The manager under which the employee is assigned <br/>
+●	PROJ_ID – The project on which the employee is working or has worked on<br/>
 
 
-Proj_table: It contains information about the projects.
-●	PROJECT_ID – ID for the project
-●	PROJ_Name – Name of the project
-●	DOMAIN – Field of the project
-●	START_DATE – Day the project began
-●	CLOSURE_DATE – Day the project was or will be completed
-●	DEV_QTR – Quarter in which the project was scheduled
-●	STATUS – Status of the project currently
+Proj_table: It contains information about the projects.<br/>
+●	PROJECT_ID – ID for the project<br/>
+●	PROJ_Name – Name of the project<br/>
+●	DOMAIN – Field of the project<br/>
+●	START_DATE – Day the project began<br/>
+●	CLOSURE_DATE – Day the project was or will be completed<br/>
+●	DEV_QTR – Quarter in which the project was scheduled<br/>
+●	STATUS – Status of the project currently<br/>
 
-Data_science_team: It contains information about all the employees in the Data Science team.
-●	EMP_ID – ID of the employee
-●	FIRST_NAME – First name of the employee
-●	LAST_NAME – Last name of the employee
-●	GENDER – Gender of the employee
-●	ROLE – Post of the employee
-●	DEPT – Field of the employee
-●	EXP – Years of experience the employee has
-●	COUNTRY – Country in which the employee is presently living
-●	CONTINENT – Continent in which the country is
+Data_science_team: It contains information about all the employees in the Data Science team.<br/>
+●	EMP_ID – ID of the employee<br/>
+●	FIRST_NAME – First name of the employee<br/>
+●	LAST_NAME – Last name of the employee<br/>
+●	GENDER – Gender of the employee<br/>
+●	ROLE – Post of the employee<br/>
+●	DEPT – Field of the employee<br/>
+●	EXP – Years of experience the employee has<br/>
+●	COUNTRY – Country in which the employee is presently living<br/>
+●	CONTINENT – Continent in which the country is<br/>
 
 The task performed: 
 
