@@ -77,12 +77,12 @@ The task performed:
 
 14.	Write a query using stored functions in the project table to check whether the job profile assigned to each employee in the data science team matches the organization’s set standard.
 
-The standard being:
-For an employee with experience less than or equal to 2 years assign 'JUNIOR DATA SCIENTIST',
-For an employee with the experience of 2 to 5 years assign 'ASSOCIATE DATA SCIENTIST',
-For an employee with the experience of 5 to 10 years assign 'SENIOR DATA SCIENTIST',
-For an employee with the experience of 10 to 12 years assign 'LEAD DATA SCIENTIST',
-For an employee with the experience of 12 to 16 years assign 'MANAGER'.
+    The standard being:<br/>
+    For an employee with experience less than or equal to 2 years assign 'JUNIOR DATA SCIENTIST',<br/>
+    For an employee with the experience of 2 to 5 years assign 'ASSOCIATE DATA SCIENTIST',<br/>
+    For an employee with the experience of 5 to 10 years assign 'SENIOR DATA SCIENTIST',<br/>
+    For an employee with the experience of 10 to 12 years assign 'LEAD DATA SCIENTIST',<br/>
+    For an employee with the experience of 12 to 16 years assign 'MANAGER'.<br/>
 
 15.	Create an index to improve the cost and performance of the query to find the employee whose FIRST_NAME is ‘Eric’ in the employee table after checking the execution plan.
 
